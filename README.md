@@ -44,11 +44,11 @@ A full-stack web application for algorithm practice with authentication, plagiar
 - Plagiarism detection system  
 - Built in 2-week Scrum sprint  
 
-[Live Demo](https://riwlogi-frontend.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://riwlogi-frontend.vercel.app/)
 
 ---
 
 ## Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/camilo-villada-79567624a)  
-Email: villajuan163@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilo-villada-79567624a)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:villajuan163@gmail.com)
