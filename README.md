@@ -3,11 +3,11 @@
 ## About Me
 
 ```yaml
-Name     : Camilo Villada
-Role     : Backend-Focused Full Stack Developer
-Core     : Java · Node.js · Express · JavaScript · Spring Boot
-Frontend : Vanilla HTML · CSS · JavaScript 
-Focus    : RESTful APIs · Clean Code · Scalable Systems
+Name: Camilo Villada
+Role: Backend-Focused Full Stack Developer
+Core: Java · Node.js · Express · JavaScript · Spring Boot
+Frontend: Vanilla HTML · CSS · JavaScript 
+Focus: RESTful APIs · Clean Code · Scalable Systems
 ```
 
 ---
