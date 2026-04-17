@@ -5,7 +5,7 @@
 
 **Core:** Java · Node.js · Express · JavaScript · Spring Boot  
 **Frontend:** HTML · CSS · JavaScript  
-**Focus:** RESTful APIs · Clean Code · Scalable Systems  
+**Focus:** RESTful APIs · Clean Code · Scalable Systems · AI Integration  
 
 ---
 
@@ -25,9 +25,9 @@
 
 ### Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AI Integration](https://img.shields.io/badge/AI_Integration-0F172A?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
@@ -37,14 +37,14 @@
 
 A full-stack web application for algorithm practice with authentication, plagiarism detection, and structured backend logic.
 
-**Stack:** JavaScript · Node.js · Express · Bun · PostgreSQL · Vercel  
+**Stack:** JavaScript · Node.js · Express · Bun · PostgreSQL  
 
 - RESTful APIs with Express and Bun  
 - Authentication & user management  
 - Plagiarism detection system  
 - Built in 2-week Scrum sprint  
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://riwlogi-frontend.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://riwlogi-frontend.vercel.app/)
 
 ---
 
